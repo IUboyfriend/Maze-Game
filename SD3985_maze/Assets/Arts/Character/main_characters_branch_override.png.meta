@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: f114408223cc2f84fa869259afb5c91e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: main_characters_branch_overridee_u1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 132
+        width: 16
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76d0274fce37b144cb8534f90926ef37
+      internalID: 1716084091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_characters_branch_overridee_ur1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 132
+        width: 16
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd5b2b29dcc966c4eb8ba4dbe39734c4
+      internalID: 909758906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_characters_branch_overridee_r1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 132
+        width: 16
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c2405d9c7eadc141a8fcf2066ebc102
+      internalID: 755816448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_characters_branch_overridee_dr1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 132
+        width: 16
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08d3bf60fdb55a747a104d71a54315a9
+      internalID: 1015069758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_characters_branch_overridee_down1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 132
+        width: 16
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 733c434b82600034cb73b9938a60cbdc
+      internalID: -657366569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_characters_branch_overridee_u2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 110
+        width: 16
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0125168939df528478df4da41d00ea50
+      internalID: 1866157873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_characters_branch_overridee_ur2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 110
+        width: 16
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 872603c3ef6359343b14b8cb521e5308
+      internalID: 728088284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_characters_branch_overridee_r2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 110
+        width: 16
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cbc478df683fa54db8ea1f45e7fc42e
+      internalID: -1890575180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_characters_branch_overridee_dr2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 110
+        width: 16
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a0b5b2d7ae3b0843b3865190d660d89
+      internalID: -1071937378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_characters_branch_overridee_down2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 110
+        width: 16
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2df1322f3163e743bc572670ba603a4
+      internalID: -1326852238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_characters_branch_overridee_u3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 88
+        width: 16
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ab413ba49f887149a7aea814380ae20
+      internalID: 1968277608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_characters_branch_overridee_ur3
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 88
+        width: 16
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa09a48398d33c74983fc0d39ea84482
+      internalID: -876302585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_characters_branch_overridee_r3
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 88
+        width: 16
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de4a111133bb32d4785c76043e93a3a8
+      internalID: -50008814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_characters_branch_overridee_dr3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 88
+        width: 16
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9aa1a0e12b3cb248a6bbf2e205e6d02
+      internalID: 1954361460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_characters_branch_overridee_down3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 88
+        width: 16
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c895875e3268caf438c8033f1fd9cab8
+      internalID: 1620477569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_characters_branch_override_leftdown1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 132
+        width: 16
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a31febfc045f4d4888df1a48d613400
+      internalID: 764389461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_characters_branch_override_leftdown2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 110
+        width: 16
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 160c4a3911390874299cdeefaea2e38d
+      internalID: 586902188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_characters_branch_override_leftdown3
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 88
+        width: 16
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 091cc18a0d1ac9c4a81817d150a3fef9
+      internalID: -1053286521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_characters_branch_override_left1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 132
+        width: 16
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf1a5c40a3fd1d1489a471d6be117184
+      internalID: 2024041029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_characters_branch_override_left2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 110
+        width: 16
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6cf15679ba5b564ea7123a0cc21d48c
+      internalID: 815560495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: main_characters_branch_override_left3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 88
+        width: 16
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e2610de2a57a344a60b42da5be7b43
+      internalID: 1128922624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 988bc5b2cd58d5643a6fe41619626152
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      main_characters_branch_override_left1: 2024041029
+      main_characters_branch_override_left2: 815560495
+      main_characters_branch_override_left3: 1128922624
+      main_characters_branch_override_leftdown1: 764389461
+      main_characters_branch_override_leftdown2: 586902188
+      main_characters_branch_override_leftdown3: -1053286521
+      main_characters_branch_overridee_0: 892247826
+      main_characters_branch_overridee_1: -1338829520
+      main_characters_branch_overridee_10: 972717145
+      main_characters_branch_overridee_11: -746804446
+      main_characters_branch_overridee_12: -793797697
+      main_characters_branch_overridee_13: 1921857023
+      main_characters_branch_overridee_14: -2054345079
+      main_characters_branch_overridee_15: 696226102
+      main_characters_branch_overridee_16: -32940476
+      main_characters_branch_overridee_17: 581890056
+      main_characters_branch_overridee_18: 1228481434
+      main_characters_branch_overridee_19: 988562024
+      main_characters_branch_overridee_2: 906423120
+      main_characters_branch_overridee_20: 493073590
+      main_characters_branch_overridee_21: -1052109896
+      main_characters_branch_overridee_22: -997323280
+      main_characters_branch_overridee_23: -1178016042
+      main_characters_branch_overridee_24: -746135880
+      main_characters_branch_overridee_25: 1158539414
+      main_characters_branch_overridee_26: -611192824
+      main_characters_branch_overridee_27: -386590158
+      main_characters_branch_overridee_28: 688479037
+      main_characters_branch_overridee_29: -1072971373
+      main_characters_branch_overridee_3: 626494190
+      main_characters_branch_overridee_30: -1696219150
+      main_characters_branch_overridee_31: 1062662816
+      main_characters_branch_overridee_32: -99913423
+      main_characters_branch_overridee_33: 1787561783
+      main_characters_branch_overridee_34: -1257884985
+      main_characters_branch_overridee_35: 415657154
+      main_characters_branch_overridee_36: -1577448627
+      main_characters_branch_overridee_37: 652083938
+      main_characters_branch_overridee_38: 1962666192
+      main_characters_branch_overridee_39: -1323762314
+      main_characters_branch_overridee_45: 2016042863
+      main_characters_branch_overridee_46: 149035992
+      main_characters_branch_overridee_47: 1244940296
+      main_characters_branch_overridee_53: 1152141216
+      main_characters_branch_overridee_54: 462023542
+      main_characters_branch_overridee_55: -1756634589
+      main_characters_branch_overridee_61: 841091369
+      main_characters_branch_overridee_62: 1106151723
+      main_characters_branch_overridee_63: -66678434
+      main_characters_branch_overridee_64: -1476141844
+      main_characters_branch_overridee_65: 2068597733
+      main_characters_branch_overridee_66: 700856765
+      main_characters_branch_overridee_67: 1286375664
+      main_characters_branch_overridee_68: 1303198511
+      main_characters_branch_overridee_69: -936757603
+      main_characters_branch_overridee_7: 1391260194
+      main_characters_branch_overridee_70: 473163407
+      main_characters_branch_overridee_71: -1353659669
+      main_characters_branch_overridee_72: 713289110
+      main_characters_branch_overridee_73: -1620780346
+      main_characters_branch_overridee_74: -1166607454
+      main_characters_branch_overridee_75: -253576112
+      main_characters_branch_overridee_76: -868145765
+      main_characters_branch_overridee_77: 73711228
+      main_characters_branch_overridee_78: -1052133509
+      main_characters_branch_overridee_79: -1002318872
+      main_characters_branch_overridee_8: 468876955
+      main_characters_branch_overridee_80: -645797396
+      main_characters_branch_overridee_81: 761547806
+      main_characters_branch_overridee_82: -754695562
+      main_characters_branch_overridee_83: 1228287249
+      main_characters_branch_overridee_84: 723046551
+      main_characters_branch_overridee_85: -1332285669
+      main_characters_branch_overridee_86: 1193277347
+      main_characters_branch_overridee_87: -2010845472
+      main_characters_branch_overridee_88: 587303408
+      main_characters_branch_overridee_89: 1707391245
+      main_characters_branch_overridee_9: -1607599673
+      main_characters_branch_overridee_90: -182497687
+      main_characters_branch_overridee_91: -425342417
+      main_characters_branch_overridee_92: -317514122
+      main_characters_branch_overridee_93: 1446022302
+      main_characters_branch_overridee_94: 2015959562
+      main_characters_branch_overridee_95: -102890247
+      main_characters_branch_overridee_down1: -657366569
+      main_characters_branch_overridee_down2: -1326852238
+      main_characters_branch_overridee_down3: 1620477569
+      main_characters_branch_overridee_dr1: 1015069758
+      main_characters_branch_overridee_dr2: -1071937378
+      main_characters_branch_overridee_dr3: 1954361460
+      main_characters_branch_overridee_r1: 755816448
+      main_characters_branch_overridee_r2: -1890575180
+      main_characters_branch_overridee_r3: -50008814
+      main_characters_branch_overridee_u1: 1716084091
+      main_characters_branch_overridee_u2: 1866157873
+      main_characters_branch_overridee_u3: 1968277608
+      main_characters_branch_overridee_ur1: 909758906
+      main_characters_branch_overridee_ur2: 728088284
+      main_characters_branch_overridee_ur3: -876302585
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
